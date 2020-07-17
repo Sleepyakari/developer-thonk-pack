@@ -106,7 +106,7 @@ Alternatively,
 
 ## Contributing
 
-As this is by no means an exhaustive list of every logo ever, feel free to push some more thonk icons into the repo!
+As this is by no means an exhaustive list of every logo ever, feel free to push some more thonk icons into the repo!   
 For the sake of consistency with the rest of the pack, please adhere to the following guidelines:
 
 > * Image are exported with the format .png 
