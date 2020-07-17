@@ -76,6 +76,7 @@ For the current list of icons and some additional information about them, refer 
 > * [iOS](https://en.wikipedia.org/wiki/IOS)
 
 #### Linux
+> * [GNU](https://en.wikipedia.org/wiki/GNU)
 > * [Tux](https://en.wikipedia.org/wiki/Tux_(mascot))
 > * [1] [Xenia](https://web.archive.org/web/20000817070058/http://www.early.com/~emackey/linux/)
 > * [Arch](https://en.wikipedia.org/wiki/Arch_Linux)
