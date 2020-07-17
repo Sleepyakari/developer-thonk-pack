@@ -33,7 +33,7 @@ For the current list of icons and some additional information about them, refer 
 
 ### Copyright
 > * [Apache](https://en.wikipedia.org/wiki/Apache_License)
-> * [All Rights Reversed](https://en.wikipedia.org/wiki/All_rights_reserved "True Evil")
+> * [All Rights Reserved](https://en.wikipedia.org/wiki/All_rights_reserved "True Evil")
 > * [GPL](https://en.wikipedia.org/wiki/GPL_License)
 > * [MIT](https://en.wikipedia.org/wiki/MIT_License)
 > * [MPL](https://en.wikipedia.org/wiki/Mozilla_Public_License)
