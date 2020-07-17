@@ -113,6 +113,7 @@ For the sake of consistency with the rest of the pack, please adhere to the foll
 > * Image size is 200x200 px
 > * Source File be in .xcf
 
+The hand image is available in the `resource` directory.
 
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
