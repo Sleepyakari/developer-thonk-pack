@@ -1,4 +1,4 @@
-# Developer Thonk Pank
+# Developer Thonk Pack
 
  ***Ever wished you could vent that passive aggresive energy about an application to your fellow devs and/or friends?***
  
